@@ -1,0 +1,14 @@
+---
+title: "Hello World"
+author: "Manish Manhar"
+date: "21 April 2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+This title above has been added as a part of assignment for The Data Scientist's Toolbox Course.
